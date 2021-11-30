@@ -1,0 +1,1 @@
+web: gunicorn skillsearch.wsgi  --log-file -
